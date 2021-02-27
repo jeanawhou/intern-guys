@@ -1,0 +1,10 @@
+.home .text h1 {
+  font-size: 74px;
+  line-height: 1.25em;
+}
+
+.text {
+  margin: auto 0;
+  width: 400px;
+  white-space: pre-line;
+}

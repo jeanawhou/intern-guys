@@ -1,0 +1,12 @@
+.contact-form {
+  max-width: 50%;
+  text-align: center;
+  margin: auto;
+  color: #ffffff;
+}
+
+.contact-form .two-form,
+.contact-form .row-form {
+  display: flex;
+  width: 100%;
+}

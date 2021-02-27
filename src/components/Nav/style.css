@@ -1,0 +1,27 @@
+.nav {
+  display: flex;
+}
+
+.nav-items {
+  display: flex;
+  text-transform: capitalize;
+}
+
+.nav-items a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.social {
+  justify-content: space-around;
+  width: 75px;
+  display: flex;
+  margin-right: 50px;
+}
+
+.social img {
+  margin: 0;
+  width: 25px !important;
+  height: 25px;
+}

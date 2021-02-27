@@ -1,0 +1,11 @@
+.halfscreen-image {
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 100%;
+  padding: 10px 150px;
+}
+
+.halfscreen-image img {
+  max-width: 100%;
+  width: 50%;
+}

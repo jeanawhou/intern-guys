@@ -1,0 +1,19 @@
+.subscription-form {
+  width: 50%;
+  display: block;
+  text-align: center;
+  margin: auto;
+  padding: 50px 0;
+}
+
+.subscription-form form {
+  width: 50%;
+  margin: auto;
+  padding: 5px;
+}
+
+.subscription-form .text-input {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px 0;
+}

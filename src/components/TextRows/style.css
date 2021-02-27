@@ -1,0 +1,12 @@
+.text-rows {
+  display: flex;
+  justify-content: space-evenly;
+  margin: auto 0;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+.text-rows .text {
+  max-width: 375px;
+  width: 100%;
+}
