@@ -1,7 +1,7 @@
 .custom-button input {
   color: #fff;
   border: none;
-  background-color: #035da9;
+  background-color: teal;
   padding: 10px 20px;
   font-family: 'Mulish', sans-serif;
   font-weight: 700;
@@ -9,6 +9,6 @@
 }
 
 .custom-button input:hover {
-  background-color: #144d7c;
+  background-color: #114255;
   cursor: pointer;
 }
