@@ -1,0 +1,14 @@
+.chevron-down {
+  animation: bounce 1s infinite alternate;
+  -webkit-animation: bounce 1s infinite alternate;
+  position: absolute;
+}
+
+@keyframes bounce {
+  from {
+    margin-top: 0;
+  }
+  to {
+    margin-top: -15px;
+  }
+}

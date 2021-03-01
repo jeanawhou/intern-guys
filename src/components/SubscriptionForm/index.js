@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from '../Button';
 import SectionTitle from '../SectionTitle';
 import TextInput from '../TextInput';
 import './style.css';
@@ -6,10 +7,10 @@ import './style.css';
 const SubscriptionForm = () => {
   return (
     <div className="subscription-form">
-      <SectionTitle text="Subscribe Form" />
+      <SectionTitle text="Subscribe to our newsletter" />
       <form>
         <TextInput type="email" placeholder="Email Adress" />
-        <input type="submit" value="Subscribe" />
+        <Button type="submit" value="Subscribe" />
       </form>
     </div>
   );

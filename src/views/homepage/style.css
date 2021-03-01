@@ -1,0 +1,8 @@
+.section .chevron-down {
+  margin-top: -50%;
+  margin-left: 50%;
+}
+
+.section.home .halfscreen-image .custom-button input {
+  background-color: teal;
+}

@@ -1,14 +1,19 @@
-.odd {
-  background-color: #035da9;
-}
-
 body {
+  background-color: #203546;
   margin: 0;
   max-width: 100vw;
   color: #ffffff;
+  font-family: 'Mulish', sans-serif;
+}
+.odd {
+  background-color: #035da9;
 }
 
 body .even {
   background-color: #01203a;
   justify-content: center;
+}
+
+html {
+  scroll-behavior: smooth;
 }

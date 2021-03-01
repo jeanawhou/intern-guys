@@ -1,0 +1,17 @@
+.contact-page {
+  display: flex;
+}
+
+.contact-page .contact-section {
+  width: 65%;
+}
+
+hr {
+  border: 1px solid #565656;
+  background-color: #565656;
+  height: calc(80vh - 10px);
+}
+
+.contact-page-forms {
+  background-color: #11212b;
+}

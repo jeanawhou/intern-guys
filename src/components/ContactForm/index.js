@@ -1,4 +1,5 @@
 import React from 'react';
+import Button from '../Button';
 import TextArea from '../TextArea';
 import TextInput from '../TextInput';
 import './style.css';
@@ -17,8 +18,8 @@ const ContactForm = () => {
         <div className="row-form">
           <TextArea rows={8} placeholder="Type your message here..." />
         </div>
-        <div>
-          <input
+        <div className="btn">
+          <Button
             type="submit"
             value="Submit"
             onClick={(e) => e.preventDefault()}

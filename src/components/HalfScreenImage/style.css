@@ -3,9 +3,12 @@
   justify-content: space-evenly;
   max-width: 100%;
   padding: 10px 150px;
+  min-height: 650px;
+  height: calc(80vh - 100px);
 }
 
 .halfscreen-image img {
   max-width: 100%;
-  width: 50%;
+  max-height: 100%;
+  margin: auto 0 auto;
 }

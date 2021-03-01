@@ -1,0 +1,9 @@
+.login-page {
+  width: 450px;
+  max-width: 50%;
+  margin: 50px auto;
+}
+.login-page a {
+  color: #fff;
+  font-weight: 700;
+}

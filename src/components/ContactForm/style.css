@@ -1,12 +1,26 @@
 .contact-form {
+  width: 700px;
   max-width: 50%;
   text-align: center;
   margin: auto;
   color: #ffffff;
+  border: 2px solid #565656;
+  padding: 30px;
+  background-color: #11212d;
 }
 
 .contact-form .two-form,
 .contact-form .row-form {
   display: flex;
   width: 100%;
+  justify-content: space-between;
+}
+
+.contact-form .two-form input,
+.contact-form .row-form input {
+  margin: 10px;
+}
+
+.contact-form .btn input {
+  margin-top: 10px;
 }
